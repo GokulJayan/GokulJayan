@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GokulJayan
-- 👀 I’m interested in programming and web development 
+- 👀 I’m interested in web development, programming and android development 
 - 🌱 I’m currently pursuiung CSE Btech degree in VIT
 - 👱 Do check out my portfolio : https://gokuljayan.github.io/PORTFOLIO/
 <!---
