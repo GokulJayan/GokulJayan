@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gokul Jayan</h1>
 <h3 align="center">A passionate tech enthusiast who loves web development, coding and android development.</h3>
 <br/>
-<img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="380" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🌱 I’m currently pursuing **CSE Btech degree in VIT**
 
