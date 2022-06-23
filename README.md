@@ -57,7 +57,7 @@
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokuljayan&show_icons=true&locale=en&layout=compact" alt="gokuljayan" /></p>
 <div/>
-<div>
+<div class="mt-2">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokuljayan&show_icons=true&locale=en" alt="gokuljayan" /></p>
 <div/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokuljayan&" alt="gokuljayan" /></p>
