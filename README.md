@@ -3,9 +3,9 @@
 <br/>
 <img align="right" width="380" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <br/>
-🌱 I’m currently pursuing CSE Btech degree in VIT
+👨‍🎓 I’m currently pursuing CSE Btech degree in VIT, Chennai
 
-👱 Do check out my portfolio: [https://gokuljayan.github.io/PORTFOLIO/](https://gokuljayan.github.io/PORTFOLIO/)
+💼 Do check out my portfolio: [https://gokuljayan.github.io/PORTFOLIO/](https://gokuljayan.github.io/PORTFOLIO/)
 
 📱 Mobile: **+91 8156932713**
 
