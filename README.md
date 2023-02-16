@@ -55,8 +55,8 @@
 
 <h3 align="left">⚙️  GitHub Analytics</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokuljayan&show_icons=true&locale=en&layout=compact" alt="gokuljayan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokuljayan&show_icons=true&locale=en&layout=compact" alt="gokuljayan"/></p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gokuljayan&show_icons=true&locale=en" alt="gokuljayan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gokuljayan&show_icons=true&locale=en" alt="gokuljayan"/></p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gokuljayan&" alt="gokuljayan" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gokuljayan&" alt="gokuljayan"/></p>
