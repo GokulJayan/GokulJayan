@@ -3,7 +3,7 @@
 <br/>
 <img align="right" width="380" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <br/>
-👨‍🎓 Currently pursuing CSE Btech degree in VIT, Chennai
+👨‍🎓 Currently pursuing Btech (CSE) in VIT, Chennai
 
 💼 Do check out my portfolio: [https://gokuljayan.github.io/PORTFOLIO/](https://gokuljayan.github.io/PORTFOLIO/)
 
