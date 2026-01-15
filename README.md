@@ -5,8 +5,6 @@
 <br/>
 👨‍🎓 Currently pursuing Btech (CSE) in VIT, Chennai
 
-💼 Do check out my portfolio: [https://gokuljayan.github.io/PORTFOLIO/](https://gokuljayan.github.io/PORTFOLIO/)
-
 📱 Mobile: **+91 8156932713**
 
 <br/>
